@@ -1,0 +1,15 @@
+body{
+	
+	}	
+
+#box {
+	
+	}
+	
+#spell{
+	position: relative;
+	float:left;
+	z-index: -1;
+
+}
+	
