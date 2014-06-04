@@ -26,9 +26,9 @@ window.onload = function(){
 	function big(){
 		setTimeout(function(){
 			box.style.fontSize='5.5em';
-		//This calls the function so the box grows again, but not at the same time.
-		bigger();
-		}, 250);
+			//This calls the function so the box grows again, but not at the same time.
+			bigger();
+			}, 250);
 	}
 
 	//This defines the second box expansion that is called in boom().
